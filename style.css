@@ -72,10 +72,10 @@ button:hover {
 }
 
 @media all and (max-width: 380px) {
-  body {
+  /* body {
     height: 98vh;
     overflow-x: hidden;
-  }
+  } */
 
   h3 {
     text-align: center;
