@@ -71,7 +71,7 @@ button:hover {
   opacity: 100%;
 }
 
-@media all and (max-width: 380px) {
+@media all and (max-width: 350px) {
   body {
     overflow: hidden;
   }
